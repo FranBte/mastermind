@@ -1,0 +1,24 @@
+.restart-button {
+  background: none repeat scroll 0 0 transparent;
+  color: #26589f;
+  font-size: 3.5vmin;
+  text-decoration: none;
+  text-indent: 0;
+  border: 1px solid #26589F;
+  border-radius: 0.5vmin;
+  padding: 1vmin;
+  cursor: pointer;
+  margin-bottom: 5vmin;
+}
+
+.restart-button:hover {
+  transform: scale(1.1);
+  box-shadow: 3px 3px 5px black;
+}
+
+.restart-button:active {
+  transform: scale(0.9);
+  box-shadow: none;
+}
+
+

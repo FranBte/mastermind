@@ -1,0 +1,13 @@
+.controller {
+    display: flex;
+    flex-flow: column;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    flex-flow: row nowrap;
+    justify-content: center;
+    margin-bottom: 2vmin;
+}
+
